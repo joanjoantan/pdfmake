@@ -9,7 +9,7 @@
   "dependencies": {
     "pdfkit": "^0.8.0",
     "linebreak": "^0.3.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.12"
   },
   "devDependencies": {
     "expose-loader": "^0.7.3",
